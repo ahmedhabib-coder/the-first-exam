@@ -63,7 +63,6 @@
 
 }
 .m-pag {
-    /* text-align: center; */
     padding-inline: 10px 10px;
     font-size: 11px;
     position: relative;
@@ -99,7 +98,6 @@
 .description {
     display: flex;
     gap: 1em;
-    /* align-items: center; */
     justify-content: flex-start;
     position: relative;
     padding-bottom: 1em;
